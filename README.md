@@ -18,8 +18,7 @@ To bridge that gap, I’ve been actively honing my skills to identify vulnerabil
 
 🧪 **Security Analysis of NFT Smart Contracts: Uncovering Hidden Rug Pull Mechanisms**  
 📍 Published on arXiv • (https://arxiv.org/abs/2506.07974)  
-🛠️ Conducted static analysis of 49,940 NFT contracts using Slither to detect hidden vulnerabilities linked to rug pulls.  
-📌 Proposed practical mitigation strategies to reduce risk at the smart contract level.
+📌 Conducted static analysis of 49,940 NFT contracts using Slither to detect hidden vulnerabilities linked to rug pulls. Proposed practical mitigation strategies to reduce risk at the smart contract level.
 
 ## 🛠️ Skills & Tools
 
