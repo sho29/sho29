@@ -65,5 +65,3 @@ To bridge that gap, I’ve been actively honing my skills to identify vulnerabil
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=sho29&color=blueviolet)
